@@ -47,3 +47,34 @@ A simple **console-based Python project** that allows users to manage ticket boo
         Cancel booked seats
 
         Retrieve details of any booked seat
+🗂️ Project Structure
+
+bus-ticket-management-system/
+│
+├── bus_ticket_system.py      # Main program
+├── README.md                 # Project overview
+└── screenshots/              # (Optional) Screenshots folder
+
+📚 Topics Covered
+
+    Lists and data structures
+
+    Loops and conditionals
+
+    Functions (optional enhancement)
+
+    User input and validation
+
+    Console-based UI
+
+🔄 Future Improvements
+
+    Add support for saving data to a file (CSV/JSON)
+
+    Add user authentication for admin/customer
+
+    GUI-based interface (Tkinter or web-based)
+
+    Dynamic seat count
+
+    Ticket pricing and payment simulation
